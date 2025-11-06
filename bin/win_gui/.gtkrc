@@ -1,0 +1,4 @@
+style "font" {
+    font_name = "Arial 10"
+}
+class "GtkWidget" style "font"
